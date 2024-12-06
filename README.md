@@ -3,7 +3,7 @@ i'm a Chemical Engineering undergraduate student looking to build a stronger tec
 
 # about me...
 - pronouns: he/they
-- languages: python, JavaScript
+- languages: Python, JavaScript
 - hobbies: guitar, mathcore, graphic design
 - currently, my focus is efficiency: looking to optimize my learning in my hobbies+coursework through programming.
     - if you have any contributions to optimize any of my projects, please reach out!
