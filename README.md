@@ -1,4 +1,15 @@
-## Hi there 👋
+## hey there! i'm Isaac Gunter :D
+i'm a Chemical Engineering undergraduate student looking to build a stronger technological-based skillset. this github will mainly be used to act as a portfolio, track my progress, and hold me accountable to learning; currently, i'm still finding my way around here... so be patient!
+
+# about me...
+- pronouns: he/they
+- languages: python
+- hobbies: guitar, mathcore, graphic design
+- currently, my focus is efficiency: i'm looking to optimize my learning in my hobbies as well as my coursework through programming.
+    - if you have any contributions to optimize any of my projects, please reach out!
+- you can reach me @...
+- fun fact: __.__
+
 
 <!--
 **isaacgun/isaacgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
