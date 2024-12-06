@@ -5,7 +5,7 @@ i'm a Chemical Engineering undergraduate student looking to build a stronger tec
 - pronouns: he/they
 - languages: python
 - hobbies: guitar, mathcore, graphic design
-- currently, my focus is efficiency: i'm looking to optimize my learning in my hobbies as well as my coursework through programming.
+- currently, my focus is efficiency: looking to optimize my learning in my hobbies+coursework through programming.
     - if you have any contributions to optimize any of my projects, please reach out!
 - you can reach me @...
 - fun fact: __.__
